@@ -57,23 +57,23 @@ You represent that you are over the age of 18. The Developer does not permit tho
 
 Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Developer. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
 
-Subscriptions
+# Subscriptions
 
-Subscription period
+## Subscription period
 
 The Service or some parts of the Service are available only with a paid Subscription. You will be billed in advance on a recurring and periodic basis (such as daily, weekly, monthly or annually), depending on the type of Subscription plan you select when purchasing the Subscription.
 
 At the end of each period, Your Subscription will automatically renew under the exact same conditions unless You cancel it or the Developer cancels it.
 
-Subscription cancellations
+## Subscription cancellations
 
 You may cancel Your Subscription renewal either through Your Account settings in the App Store app. You will not receive a refund for the fees You already paid for Your current Subscription period and You will be able to access the Service until the end of Your current Subscription period.
 
-Billing
+## Billing
 
 You shall provide the App Store with accurate and complete billing information including full name, address, state, zip code, telephone number, and a valid payment method information.
 
-Fee Changes
+## Fee Changes
 
 The Developer, in its sole discretion and at any time, may modify the Subscription fees. Any Subscription fee change will become effective at the end of the then-current Subscription period.
 
@@ -81,11 +81,11 @@ The Developer will provide You with reasonable prior notice of any change in Sub
 
 Your continued use of the Service after the Subscription fee change comes into effect constitutes Your agreement to pay the modified Subscription fee amount.
 
-Refunds
+## Refunds
 
 Except when required by law, paid Subscription fees are non-refundable.
 
-Free Trial
+## Free Trial
 
 The Developer may, at its sole discretion, offer a Subscription with a Free trial for a limited period of time.
 
@@ -95,7 +95,7 @@ If You do enter Your billing information when signing up for a Free Trial, You w
 
 At any time and without notice, the Developer reserves the right to (i) modify the terms and conditions of the Free Trial offer, or (ii) cancel such Free trial offer.
 
-Intellectual Property
+# Intellectual Property
 
 The Service and its original content (excluding Content provided by You or other users), features and functionality are and will remain the exclusive property of the Developer and its licensors.
 
@@ -103,11 +103,11 @@ The Service is protected by copyright, trademark, and other laws of both the Cou
 
 Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of the Developer.
 
-Your Feedback to Us
+# Your Feedback to Us
 
 You assign all rights, title and interest in any Feedback You provide the Developer. If for any reason such assignment is ineffective, You agree to grant the Developer a non-exclusive, perpetual, irrevocable, royalty free, worldwide right and license to use, reproduce, disclose, sub-license, distribute, modify and exploit such Feedback without restriction.
 
-Links to Other Websites
+# Links to Other Websites
 
 Our Service may contain links to third-party web sites or services that are not owned or controlled by the Developer.
 
@@ -115,13 +115,13 @@ The Developer has no control over, and assumes no responsibility for, the conten
 
 We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
 
-Termination
+# Termination
 
 We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
 
 Upon termination, Your right to use the Service will cease immediately.
 
-Limitation of Liability
+# Limitation of Liability
 
 Notwithstanding any damages that You might incur, the entire liability of the Developer and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.
 
@@ -129,7 +129,7 @@ To the maximum extent permitted by applicable law, in no event shall the Develop
 
 Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
 
-"AS IS" and "AS AVAILABLE" Disclaimer
+# "AS IS" and "AS AVAILABLE" Disclaimer
 
 The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Developer, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Developer provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
 
@@ -137,47 +137,47 @@ Without limiting the foregoing, neither the Developer nor any of the company's p
 
 Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
 
-Governing Law
+# Governing Law
 
 The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
 
-Disputes Resolution
+# Disputes Resolution
 
 If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Developer.
 
-For European Union (EU) Users
+# For European Union (EU) Users
 
 If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.
 
-United States Federal Government End Use Provisions
+# United States Federal Government End Use Provisions
 
 If You are a U.S. federal government end user, our Service is a "Commercial Item" as that term is defined at 48 C.F.R. Â§2.101.
 
-United States Legal Compliance
+# United States Legal Compliance
 
 You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
 
-Severability and Waiver
+# Severability and Waiver
 
-Severability
+## Severability
 
 If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
 
-Waiver
+## Waiver
 
 Except as provided herein, the failure to exercise a right or to require performance of an obligation under this Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall be the waiver of a breach constitute a waiver of any subsequent breach.
 
-Translation Interpretation
+# Translation Interpretation
 
 These Terms and Conditions may have been translated if We have made them available to You on our Service. You agree that the original English text shall prevail in the case of a dispute.
 
-Changes to These Terms and Conditions
+# Changes to These Terms and Conditions
 
 We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
 
 By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
 
-Contact Us
+# Contact Us
 
 If you have any questions about these Terms and Conditions, You can contact us:
 

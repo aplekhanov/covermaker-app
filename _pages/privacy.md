@@ -5,16 +5,16 @@ include_in_header: false
 ---
 
 **Last updated**  
-February 12 2023
+October 27 2025
 
 # Privacy Policy
 I take your privacy very seriously. I neither want nor need to know anything about your personal data. To that end I’ve designed the app from the ground up to ensure that your data stays completely private.
 
-Icon Maker can optionally access some of your personal data for display within the app. This includes your photos. All of this access is handled using the standard iOS privacy prompts. If you give app access to this data it will be read and displayed only within the app.
+Cover Maker can optionally access some of your personal data for display within the app. This includes your photos. All of this access is handled using the standard iOS privacy prompts. If you give app access to this data it will be read and displayed only within the app.
 
-I don’t want the responsibility of managing your personal data correctly, so I don’t collect it, which I think is better for both of us. Besides that, to make app better, it collects some usage statistic using Apple's "IdentifierForVendor" API. The identifier generated out with this method has no relation to any of the user's identifiable information or private data. Deleting and reinstalling the app will generate a new identifier and sever any connection to the old one. This anonymous data is shared with my analytics provider ([TelemetryDeck](https://telemetrydeck.com/privacy/)).
+I don’t want the responsibility of managing your personal data correctly, so I don’t collect it, which I think is better for both of us.
 
-If you sign-up for a Theme Plus subscription, additional non-personally identifiable data will be kept. Your billing information, address, and name are all maintained by the App Store and are not visible to me. I will simply get information about whether or not you have purchased a subscription, the term you signed up for and when it is due to expire. This is all made available to me in an anonymous fashion. This anonymous data is also shared with my purchase provider ([RevenueCat](https://www.revenuecat.com/dpa)).
+If you sign-up for a Premium subscription, additional non-personally identifiable data will be kept. Your billing information, address, and name are all maintained by the App Store and are not visible to me. I will simply get information about whether or not you have purchased a subscription, the term you signed up for and when it is due to expire. This is all made available to me in an anonymous fashion. This anonymous data is also shared with my purchase provider ([RevenueCat](https://www.revenuecat.com/dpa)).
 
 *Now for the legal boilerplate part of the Privacy Policy.*
 
@@ -36,4 +36,4 @@ You hereby indemnify us and undertake to keep us indemnified against any losses,
 
 Your continued use of the app will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about it, feel free to contact me by mail@aplekhanov.com
 
-This policy is effective as of 12 February 2023.
+This policy is effective as of 27 October 2025.

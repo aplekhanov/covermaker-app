@@ -2,7 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1662361696                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1579498324                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  :                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Create beautiful icons in a fun and easy way, or install from a variety of high-quality themes with a single tap.
+app_description                           : Easy-to-use app that helps you create outstanding highlight covers for your Instagram story.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Alex Plekhanov                              
-your_link                                 : https://apps.apple.com/app/id1662361696                  
+your_link                                 : https://apps.apple.com/app/id1579498324                  
 your_city                                 :                                 
 email_address                             : mail@aplekhanov.com
 facebook_username                         :                                           
@@ -29,22 +29,6 @@ twitter_username                          :
 github_username                           : aplekhanov
 youtube_username                          :
 
-
-
-# Feature List                            Edit, add or remove features to be presented.
-features                                  :
-
-  - title                                 : Customize Home Screen
-    description                           : Personalize your phone and make it look different!
-    fontawesome_icon_name                 : pen-square
-
-  - title                                 : Colors & Glyphs
-    description                           : Hundreds of beautiful colors and over 2000 system glyphs
-    fontawesome_icon_name                 : brush
-      
-  - title                                 : Custom themes
-    description                           : High-quality themes that support not only system apps, but also the most popular third-party apps
-    fontawesome_icon_name                 : heart
 
 
 # Theme Settings

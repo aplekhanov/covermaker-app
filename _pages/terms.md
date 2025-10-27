@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-February 03 2023
+October 27 2025
 
 # Terms of Use
 
@@ -21,7 +21,7 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of these Terms and Conditions:
 
-* __Application__ means the software program downloaded by You on any electronic device, named Icon Maker
+* __Application__ means the software program downloaded by You on any electronic device, named Cover Maker
 
 * __Application Store__ means the digital distribution service operated and developed by Apple Inc. (Apple App Store) in which the Application has been downloaded.
 
@@ -182,4 +182,4 @@ By continuing to access or use Our Service after those revisions become effectiv
 If you have any questions about these Terms and Conditions, You can contact us:
 
 By email: mail@aplekhanov.com
-Last updated: February 3, 2023
+Last updated: October 27, 2025
